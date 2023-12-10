@@ -1,1 +1,1 @@
-##Next.js project backed by Supabase
+##Next.js project backed by Supabase and designed by shadcn
